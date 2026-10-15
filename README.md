@@ -9,6 +9,21 @@ flutter pub get
 flutter run
 ```
 
+## Create a macOS DMG
+
+Run these commands on a Mac with Flutter and Xcode installed:
+
+```sh
+flutter build macos --release
+bash tools/create_dmg.sh
+```
+
+The script finds the release `.app`, packages it with an Applications shortcut,
+and creates `animation_book.dmg` in the project root. It replaces an existing
+DMG with the same name and verifies the resulting image. To select a specific
+bundle, pass its path as the first argument. Packaging does not sign or notarize
+the app.
+
 ## Supported targets
 
 The project is scaffolded for Android phones and tablets, iPhone and iPad, web, Windows, macOS, and Linux. Layout breakpoints are based on available width so the interface also adapts when a desktop window is resized.
