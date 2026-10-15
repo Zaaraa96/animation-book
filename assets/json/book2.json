@@ -1,0 +1,76 @@
+
+{
+  "title": {
+    "fa": "نوازندگان شهر برمن",
+    "en": "The Musicians of Bremen"
+  },
+  "totalPages": 8,
+  "defaultLanguage": "fa",
+  "supportedLanguages": ["fa", "en"],
+  "pages": [
+    {
+      "page_id": 1,
+      "content": {
+        "fa": "روزی روزگاری، الاغی پیر سال‌ها برای صاحبش کار کرده بود. حالا دیگر مثل گذشته قوی نبود و صاحبش می‌خواست او را از خانه بیرون کند. الاغ با خودش گفت: «بهتر است به شهر برمن بروم و نوازنده شوم!»",
+        "en": "Once upon a time, an old donkey had worked for his owner for many years. Now he was no longer as strong as he used to be, and his owner wanted to send him away. The donkey said to himself, \"I would be better off going to the city of Bremen and becoming a musician!\""
+      },
+      "assetPath": "assets/image/book2/1.png"
+    },
+    {
+      "page_id": 2,
+      "content": {
+        "fa": "الاغ در راه، سگی را دید که خسته کنار درختی نشسته بود. سگ گفت: «صاحبم دیگر مرا نمی‌خواهد، چون پیر شده‌ام.» الاغ جواب داد: «با من به برمن بیا! می‌توانیم با هم نوازنده شویم.» سگ خوشحال شد و همراه الاغ به راه افتاد.",
+        "en": "Along the way, the donkey met a dog sitting tiredly beside a tree. The dog said, \"My owner doesn't want me anymore because I have grown old.\" The donkey replied, \"Come with me to Bremen! We can become musicians together.\" The dog was delighted and joined the donkey on his journey."
+      },
+      "assetPath": "assets/image/book2/2.png"
+    },
+    {
+      "page_id": 3,
+      "content": {
+        "fa": "کمی جلوتر، آن دو یک گربه‌ی نارنجی دیدند که غمگین کنار خانه‌ای نشسته بود. گربه گفت: «دیگر نمی‌توانم موش بگیرم و صاحبم مرا نمی‌خواهد.» سگ گفت: «با ما بیا! صدای تو هم می‌تواند بخشی از گروه موسیقی ما باشد.» گربه با خوشحالی به آن‌ها پیوست.",
+        "en": "A little farther along, they saw an orange cat sitting sadly beside a house. The cat said, \"I can no longer catch mice, and my owner doesn't want me anymore.\" The dog said, \"Come with us! Your voice can be part of our musical group, too.\" The cat happily joined them."
+      },
+      "assetPath": "assets/image/book2/3.png"
+    },
+    {
+      "page_id": 4,
+      "content": {
+        "fa": "وقتی خورشید داشت غروب می‌کرد، صدای خروسی را شنیدند که با تمام توان آواز می‌خواند. خروس گفت: «فردا می‌خواهند مرا بپزند!» الاغ گفت: «نترس، با ما بیا تا در برمن نوازنده شویم.» خروس هم به گروه چهار نفره‌ی آن‌ها پیوست.",
+        "en": "As the sun began to set, they heard a rooster singing as loudly as he could. The rooster said, \"Tomorrow, they are going to cook me!\" The donkey said, \"Don't be afraid. Come with us, and we can become musicians in Bremen.\" The rooster joined their group, making four friends."
+      },
+      "assetPath": "assets/image/book2/4.png"
+    },
+    {
+      "page_id": 5,
+      "content": {
+        "fa": "شب از راه رسید و چهار دوست وارد جنگل شدند. ناگهان نوری از پنجره‌ی خانه‌ای کوچک دیدند. وقتی نزدیک شدند، متوجه شدند چند دزد داخل خانه نشسته‌اند و غذای خوشمزه می‌خورند. حیوانات تصمیم گرفتند راهی پیدا کنند تا دزدها را فراری دهند.",
+        "en": "Night fell, and the four friends entered the forest. Suddenly, they saw a light shining through the window of a small house. When they came closer, they discovered several robbers sitting inside and eating a delicious meal. The animals decided to find a way to scare the robbers away."
+      },
+      "assetPath": "assets/image/book2/5.png"
+    },
+    {
+      "page_id": 6,
+      "content": {
+        "fa": "چهار دوست نقشه‌ای کشیدند. الاغ پاهایش را روی پنجره گذاشت، سگ روی پشت الاغ پرید، گربه روی سگ نشست و خروس هم بالای سر همه قرار گرفت. بعد، هر چهار حیوان با صدای بلند شروع به آواز خواندن کردند و خانه پر از صداهای عجیب و خنده‌دار شد.",
+        "en": "The four friends came up with a plan. The donkey placed his front legs against the window, the dog climbed onto the donkey's back, the cat sat on the dog, and the rooster perched on top of them all. Then all four animals began making loud noises together, filling the house with strange and funny sounds."
+      },
+      "assetPath": "assets/image/book2/6.png"
+    },
+    {
+      "page_id": 7,
+      "content": {
+        "fa": "دزدها با شنیدن آن صداهای عجیب وحشت کردند. یکی فکر کرد هیولایی پشت پنجره است و دیگری خیال کرد روحی وارد خانه شده است! همه با عجله از خانه فرار کردند و در تاریکی جنگل ناپدید شدند. چهار دوست با خوشحالی وارد خانه شدند و غذای روی میز را خوردند.",
+        "en": "The robbers were terrified when they heard the strange noises. One thought a monster was outside the window, while another imagined a ghost had entered the house! They all rushed out and disappeared into the dark forest. The four friends happily went inside and ate the food left on the table."
+      },
+      "assetPath": "assets/image/book2/7.png"
+    },
+    {
+      "page_id": 8,
+      "content": {
+        "fa": "چهار دوست تصمیم گرفتند همان‌جا بمانند و خانه‌ی گرم و راحت را برای خودشان نگه دارند. آن‌ها هر روز با هم آواز می‌خواندند، غذا می‌خوردند و به یکدیگر کمک می‌کردند. آن‌ها فهمیدند که وقتی دوستان کنار هم باشند، حتی سخت‌ترین روزها هم می‌توانند به ماجرایی شیرین تبدیل شوند. و این‌گونه، زندگی تازه‌ی آن‌ها آغاز شد.",
+        "en": "The four friends decided to stay and make the warm, cozy house their own. Every day, they sang together, shared meals, and helped one another. They learned that when friends stick together, even the hardest days can turn into wonderful adventures. And so, their new life began."
+      },
+      "assetPath": "assets/image/book2/8.png"
+    }
+  ]
+}

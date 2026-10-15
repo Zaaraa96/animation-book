@@ -1,0 +1,76 @@
+
+{
+  "title": {
+    "fa": "سه خوک کوچولو",
+    "en": "The Three Little Pigs"
+  },
+  "totalPages": 8,
+  "defaultLanguage": "fa",
+  "supportedLanguages": ["fa", "en"],
+  "pages": [
+    {
+      "page_id": 1,
+      "content": {
+        "fa": "روزی روزگاری، سه خوک کوچولو با مادرشان زندگی می‌کردند. یک روز مادرشان گفت: «بچه‌ها، وقتش رسیده خانه‌های خودتان را بسازید و مراقب خودتان باشید!» سه برادر با خوشحالی راه افتادند تا برای خودشان خانه بسازند.",
+        "en": "Once upon a time, three little pigs lived with their mother. One day, their mother said, \"Children, it's time to build your own homes and take care of yourselves!\" The three brothers happily set off to build their own houses."
+      },
+      "assetPath": "assets/image/book1/1.png"
+    },
+    {
+      "page_id": 2,
+      "content": {
+        "fa": "خوک کوچولوی اول در راه مقداری کاه پیدا کرد. با خودش گفت: «چه کاه خوبی! با همین برای خودم خانه می‌سازم.» او خیلی زود خانه‌اش را ساخت و با خیال راحت داخل آن رفت تا استراحت کند.",
+        "en": "The first little pig found some straw along the way. He said to himself, \"What lovely straw! I'll build my house with this.\" He quickly built his house and went inside to rest, feeling pleased with himself."
+      },
+      "assetPath": "assets/image/book1/2.png"
+    },
+    {
+      "page_id": 3,
+      "content": {
+        "fa": "خوک کوچولوی دوم چند تکه چوب پیدا کرد و با آن‌ها خانه‌ای ساخت. او از خانه‌اش خوشحال بود و به برادرش گفت: «حالا هر کدام خانه‌ی خودمان را داریم!» بعد، در خانه‌اش نشست و آواز خواند.",
+        "en": "The second little pig found some pieces of wood and built a house with them. He was happy with his house and told his brother, \"Now we each have our own home!\" Then he sat inside and sang a cheerful song."
+      },
+      "assetPath": "assets/image/book1/3.png"
+    },
+    {
+      "page_id": 4,
+      "content": {
+        "fa": "خوک کوچولوی سوم تصمیم گرفت خانه‌ای محکم بسازد. او آجرها را یکی‌یکی روی هم گذاشت و با دقت دیوارها را ساخت. دو برادرش گفتند: «چرا این‌قدر زحمت می‌کشی؟» خوک سوم لبخند زد و به کارش ادامه داد.",
+        "en": "The third little pig decided to build a strong house. He carefully stacked the bricks one by one and built the walls. His brothers asked, \"Why are you working so hard?\" The third little pig smiled and continued working."
+      },
+      "assetPath": "assets/image/book1/4.png"
+    },
+    {
+      "page_id": 5,
+      "content": {
+        "fa": "یک روز، گرگ بزرگی به خانه‌ی کاهی رسید و در زد. خوک کوچولو ترسید و در را باز نکرد. گرگ گفت: «بیا بیرون، خوک کوچولو!» اما خوک جواب داد: «نه، نه، هرگز!» گرگ نفس عمیقی کشید و به خانه فوت کرد.",
+        "en": "One day, a big wolf arrived at the straw house and knocked on the door. The little pig was frightened and refused to open it. The wolf called, \"Come out, little pig!\" But the pig replied, \"No, no, never!\" The wolf took a deep breath and blew at the house."
+      },
+      "assetPath": "assets/image/book1/5.png"
+    },
+    {
+      "page_id": 6,
+      "content": {
+        "fa": "با فوت محکم گرگ، خانه‌ی کاهی خراب شد و خوک کوچولو فرار کرد و به خانه‌ی چوبی برادرش پناه برد. اما گرگ آن‌ها را پیدا کرد و با یک فوت بزرگ، خانه‌ی چوبی را هم خراب کرد. دو خوک کوچولو با تمام سرعت به طرف خانه‌ی آجری دویدند.",
+        "en": "With one mighty puff, the wolf blew down the straw house. The little pig ran away and took shelter in his brother's wooden house. But the wolf found them and blew down the wooden house, too. The two little pigs ran as fast as they could toward the brick house."
+      },
+      "assetPath": "assets/image/book1/6.png"
+    },
+    {
+      "page_id": 7,
+      "content": {
+        "fa": "سه خوک کوچولو پشت در محکم خانه‌ی آجری پنهان شدند. گرگ هرچه فوت کرد، خانه تکان نخورد! او خسته شد و فهمید که نمی‌تواند خانه را خراب کند. خوک‌ها با خوشحالی به هم نگاه کردند و فهمیدند که زحمت کشیدن بی‌فایده نیست.",
+        "en": "The three little pigs hid safely behind the strong door of the brick house. The wolf puffed and puffed, but the house did not move! He grew tired and realized he could not knock it down. The pigs looked at one another happily and understood that hard work pays off."
+      },
+      "assetPath": "assets/image/book1/7.png"
+    },
+    {
+      "page_id": 8,
+      "content": {
+        "fa": "گرگ بالاخره دست از تلاش برداشت و از آنجا دور شد. سه خوک کوچولو کنار هم در خانه‌ی محکمشان زندگی کردند و هر روز به یکدیگر کمک کردند. آن‌ها فهمیدند که با تلاش، دقت و همکاری می‌توان از پس مشکلات برآمد. و این‌گونه، قصه‌ی آن‌ها به خوبی و خوشی تمام شد.",
+        "en": "At last, the wolf gave up and went away. The three little pigs lived together in their sturdy house and helped one another every day. They learned that hard work, care, and teamwork can help solve problems. And so, their story came to a happy ending."
+      },
+      "assetPath": "assets/image/book1/8.png"
+    }
+  ]
+}
